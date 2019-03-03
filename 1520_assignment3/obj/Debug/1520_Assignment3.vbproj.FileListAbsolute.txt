@@ -1,0 +1,12 @@
+C:\Users\Rain\source\repos\1520_Assignment3\1520_Assignment3\bin\Debug\1520_Assignment3.exe.config
+C:\Users\Rain\source\repos\1520_Assignment3\1520_Assignment3\bin\Debug\1520_Assignment3.exe
+C:\Users\Rain\source\repos\1520_Assignment3\1520_Assignment3\bin\Debug\1520_Assignment3.pdb
+C:\Users\Rain\source\repos\1520_Assignment3\1520_Assignment3\bin\Debug\1520_Assignment3.xml
+C:\Users\Rain\source\repos\1520_Assignment3\1520_Assignment3\obj\Debug\1520_Assignment3.vbprojAssemblyReference.cache
+C:\Users\Rain\source\repos\1520_Assignment3\1520_Assignment3\obj\Debug\_1520_Assignment3.Resources.resources
+C:\Users\Rain\source\repos\1520_Assignment3\1520_Assignment3\obj\Debug\_1520_Assignment3.Form1.resources
+C:\Users\Rain\source\repos\1520_Assignment3\1520_Assignment3\obj\Debug\1520_Assignment3.vbproj.GenerateResource.cache
+C:\Users\Rain\source\repos\1520_Assignment3\1520_Assignment3\obj\Debug\1520_Assignment3.vbproj.CoreCompileInputs.cache
+C:\Users\Rain\source\repos\1520_Assignment3\1520_Assignment3\obj\Debug\1520_Assignment3.exe
+C:\Users\Rain\source\repos\1520_Assignment3\1520_Assignment3\obj\Debug\1520_Assignment3.xml
+C:\Users\Rain\source\repos\1520_Assignment3\1520_Assignment3\obj\Debug\1520_Assignment3.pdb

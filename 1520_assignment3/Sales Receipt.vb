@@ -34,7 +34,7 @@
     ' 
     ' 3. Buttons:
     '   a. 'AddItemBtn'     - Button used to add the credentials in itemtxtbox and pricetxtbox to the cart/receipt/listbox.
-    '   b. 'saleButton'     - Button used to add the Friendly's $1.99 sale from the combobox.
+    '   b. 'saleBtn'        - Button used to add the Friendly's $1.99 sale from the combobox.
     '   c. 'CheckOutBtn'    - Button used to compute and display the subtotal, tax and total amount on the receipt/listbox.
     '   d. 'CloseTransBtn'  - Button used to clear all the fields in the textboxes, listbox, and variable value. Resetting everything.
     '   e. 'ExitBtn'        - Button used to exit the program.
@@ -161,7 +161,7 @@
         saleCmbBox.Items.Add("Friendly's Butter")
     End Sub
 
-    Private Sub saleButton_Click(sender As Object, e As EventArgs) Handles saleButton.Click
+    Private Sub saleBtn_Click(sender As Object, e As EventArgs) Handles saleBtn.Click
         ' Additional subroutine for the sale I've added.
         ' This will give the salebutton function to add the sale item to the cart, depending on the item selected, I was not sure how to make sure that if user edited the predefined combobox
         ' items that it will still add regardless, so I made sure that the length had to be atleast 10 characters long (because all my predefined items are) and use that as a condition in my

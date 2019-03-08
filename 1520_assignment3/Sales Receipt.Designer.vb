@@ -36,7 +36,7 @@ Partial Class Receipt
         Me.LogoPicBox = New System.Windows.Forms.PictureBox()
         Me.saleCmbBox = New System.Windows.Forms.ComboBox()
         Me.saleLbl = New System.Windows.Forms.Label()
-        Me.saleButton = New System.Windows.Forms.Button()
+        Me.saleBtn = New System.Windows.Forms.Button()
         CType(Me.LogoPicBox, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
@@ -165,15 +165,15 @@ Partial Class Receipt
         Me.saleLbl.TabIndex = 12
         Me.saleLbl.Text = "$1.99 Sale Items:"
         '
-        'saleButton
+        'saleBtn
         '
-        Me.saleButton.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.saleButton.Location = New System.Drawing.Point(506, 376)
-        Me.saleButton.Name = "saleButton"
-        Me.saleButton.Size = New System.Drawing.Size(146, 23)
-        Me.saleButton.TabIndex = 13
-        Me.saleButton.Text = "Add Sale Item to Cart"
-        Me.saleButton.UseVisualStyleBackColor = True
+        Me.saleBtn.Font = New System.Drawing.Font("Microsoft Sans Serif", 8.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.saleBtn.Location = New System.Drawing.Point(506, 376)
+        Me.saleBtn.Name = "saleBtn"
+        Me.saleBtn.Size = New System.Drawing.Size(146, 23)
+        Me.saleBtn.TabIndex = 13
+        Me.saleBtn.Text = "Add Sale Item to Cart"
+        Me.saleBtn.UseVisualStyleBackColor = True
         '
         'Receipt
         '
@@ -181,7 +181,7 @@ Partial Class Receipt
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.MediumSlateBlue
         Me.ClientSize = New System.Drawing.Size(734, 661)
-        Me.Controls.Add(Me.saleButton)
+        Me.Controls.Add(Me.saleBtn)
         Me.Controls.Add(Me.saleLbl)
         Me.Controls.Add(Me.saleCmbBox)
         Me.Controls.Add(Me.LogoPicBox)
@@ -217,5 +217,5 @@ Partial Class Receipt
     Friend WithEvents LogoPicBox As PictureBox
     Friend WithEvents saleCmbBox As ComboBox
     Friend WithEvents saleLbl As Label
-    Friend WithEvents saleButton As Button
+    Friend WithEvents saleBtn As Button
 End Class
